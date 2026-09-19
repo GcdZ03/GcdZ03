@@ -2,7 +2,7 @@
 
 Developer. I build macOS tools that respect the machine they run on.
 
-**Now** — Software engineer at Enroute Tech in Melbourne, on a fleet
+**Now** — Software engineer at [Enroute Tech](https://www.enroute-tech.com/) in Melbourne, on a fleet
 logistics platform: PHP microservices and two Flutter apps shipping on iOS and Android. On my own
 time I build macOS and developer tooling.
 
