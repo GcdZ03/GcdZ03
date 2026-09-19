@@ -2,6 +2,12 @@
 
 Developer. I build macOS tools that respect the machine they run on.
 
+**Now** — Software engineer at [Enroute Tech](https://www.enroutetech.com.au) in Melbourne, on a fleet
+logistics platform: PHP microservices and two Flutter apps shipping on iOS and Android. On my own
+time I build macOS and developer tooling.
+
+*Updated September 2026.*
+
 [Site](https://personal-site.dezhengchang.workers.dev) · [LinkedIn](https://www.linkedin.com/in/de-zheng-chang) · <dezhengchang@gmail.com>
 
 ---
@@ -20,4 +26,4 @@ The site linked above. Zero JavaScript shipped, served as an assets-only Cloudfl
 
 ---
 
-**In progress:** a linter for AI agent context files that catches drift against the repo, a terminal-native API client with plain-text request files, and a tool that attaches an agent's reasoning to the pull request it opened. Public when they're worth reading.
+**Building next:** `ctxlint` — a linter for AI agent context files (`CLAUDE.md`, `AGENTS.md`, Cursor rules) that catches drift against the repo they describe: dead paths, missing scripts, stale sections, instructions contradicted by the project's own config. Public once it works on something other than my own repos.
