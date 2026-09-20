@@ -8,7 +8,7 @@ time I build macOS and developer tooling.
 
 *Updated September 2026.*
 
-[Site](https://personal-site.dezhengchang.workers.dev) · [LinkedIn](https://www.linkedin.com/in/de-zheng-chang) · <dezhengchang@gmail.com>
+[geraldchang.dev](https://geraldchang.dev) · [LinkedIn](https://www.linkedin.com/in/de-zheng-chang) · <dezhengchang@gmail.com>
 
 ---
 
@@ -22,7 +22,7 @@ Shipped v0.6.0.
 
 ### [personal-site](https://github.com/GcdZ03/personal-site) — Astro, Tailwind, Cloudflare
 
-The site linked above. Zero JavaScript shipped, served as an assets-only Cloudflare Worker, so nothing runs per request. Adding a project is one Markdown file, and the build fails with a readable error if the frontmatter is wrong.
+The site at the top of this page. Zero JavaScript shipped, served as an assets-only Cloudflare Worker, so nothing runs per request. Adding a project is one Markdown file, and the build fails with a readable error if the frontmatter is wrong.
 
 ---
 
