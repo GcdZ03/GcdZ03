@@ -18,7 +18,7 @@ Turns the MacBook notch into something useful, without the battery drain.
 
 A notch app is ambient software: it sits under the menu bar for as long as the machine is on, and almost none of that time is spent looking at it — so its idle cost is the only cost that matters. One rule, written down before the first module: no subsystem runs when it isn't needed, enforced centrally rather than trusted to each module. `ARCHITECTURE.md` names four constructs as not allowed — an unconditional `Timer`, a permanently installed global event monitor, cursor-position polling, and an audio tap. The assumption is that if you think you need one, there's a notification you haven't found yet.
 
-Shipped v0.5.0.
+Shipped v0.6.0.
 
 ### [personal-site](https://github.com/GcdZ03/personal-site) — Astro, Tailwind, Cloudflare
 
